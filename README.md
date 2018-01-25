@@ -1,6 +1,8 @@
 # FloorLite
 
-Quick Guide to develop a system that  control the lights in a storey building  🚀
+Quick Guide to develop a system that  control the lights in a storey building 🚨
+
+Make an LED blink, controll it through a UI button from the touch screen using Firebase
 
 # Prototype Schematic
 
