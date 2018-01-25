@@ -1,5 +1,12 @@
-# android-things-FloorLite
+# FloorLite
+
 Quick Guide to develop a system that  control the lights in a storey building  🚀
+
+# Prototype Schematic
+
+- Android Things
+- Firebase Database & auth
+- Android
 
 # Prototype Schematic
 
