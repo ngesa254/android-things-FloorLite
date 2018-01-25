@@ -4,6 +4,9 @@ import android.app.Activity;
 import android.os.Bundle;
 
 import com.google.android.things.pio.Gpio;
+import com.google.android.things.pio.PeripheralManagerService;
+
+import java.io.IOException;
 
 public class MainActivity extends Activity {
 
@@ -22,6 +25,19 @@ public class MainActivity extends Activity {
     }
 
     private void setupLeds (){
+
+        PeripheralManagerService service = new PeripheralManagerService();
+
+        try {
+
+            mLedGioOne = service.openGpio(LED_PIN_ONE);
+            mLedGioTwo = service.openGpio(LED_PIN_TWO);
+            mLedGioThree = service.openGpio(LED_PIN_THREE);
+
+        } catch (IOException e) {
+
+            //bus cannot be opened
+        }
 
     }
 
