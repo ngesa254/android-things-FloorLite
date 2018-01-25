@@ -23,7 +23,12 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
     }
-
+    // close the LEDs when finished to release resources
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        destroyLeds();
+    }
     private void setupLeds (){
 
         PeripheralManagerService service = new PeripheralManagerService();
