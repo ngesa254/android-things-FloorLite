@@ -42,7 +42,14 @@ public class MainActivity extends Activity {
     }
 
     private void destroyLeds(){
+        try {
+            mLedGioOne.close();
+            mLedGioTwo.close();
+            mLedGioThree.close();
+        } catch (IOException e) {
 
+            //bus cannot be closed
+        }
     }
 
 }
