@@ -33,8 +33,8 @@ android:gravity="center">
             <ImageView
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:background="@drawable/circlebackgroundpurple"
-                android:src="@drawable/ic_attach_money_black_24dp"
+                android:background="@drawable/circlebackgroundyello"
+                android:src="@drawable/ic_lightbulb_outline_black_24dp"
                 android:padding="10dp"/>
 
             <TextView
@@ -78,7 +78,7 @@ android:gravity="center">
             <ImageView
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:background="@drawable/circlebackgroundpink"
+                android:background="@drawable/circlebackgroundgreen"
                 android:src="@drawable/ic_lightbulb_outline_black_24dp"
                 android:padding="10dp"/>
 
@@ -134,8 +134,8 @@ android:gravity="center">
             <ImageView
                 android:layout_width="64dp"
                 android:layout_height="64dp"
-                android:background="@drawable/circlebackgroundgreen"
-                android:src="@drawable/ic_control_point_black_24dp"
+                android:background="@drawable/circlebackgroundyello"
+                android:src="@drawable/ic_lightbulb_outline_black_24dp"
                 android:padding="10dp"/>
 
             <TextView
@@ -179,7 +179,7 @@ android:gravity="center">
                 android:layout_width="64dp"
                 android:layout_height="64dp"
                 android:background="@drawable/circlebackgroundyello"
-                android:src="@drawable/ic_attach_file_black_24dp"
+                android:src="@drawable/ic_lightbulb_outline_black_24dp"
                 android:padding="10dp"/>
 
             <TextView
