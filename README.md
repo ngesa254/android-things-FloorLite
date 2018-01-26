@@ -49,7 +49,8 @@ Please feel free to contact me if you have any questions, ideas or even if you j
 - [Facebook](https://web.facebook.com/marvinngesa)
 - [LinkedIn](https://www.linkedin.com/in/engngesamarvin) 
 
-# References
+References
+----------
 
 - Building an Online Presence System using Firebase Realtime Database - https://firebase.googleblog.com/2013/06/how-to-build-presence-system.html
 - Android Things Setup - https://developer.android.com/things/index.html
