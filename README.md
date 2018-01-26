@@ -4,7 +4,8 @@ Quick Guide to develop a system that  control the lights in a storey building �
 
 Make an LED blink, controll it through a UI button from the touch screen using AndroidThings and  Firebase
 
-# Story
+Story
+----------------
 
 # Setup Requirements
 
@@ -14,15 +15,6 @@ In order to get the app running yourself, you need to:
 - Firebase Database & auth
 - Android
 
-
-# Prototype Schematic
-
-
-# Firebase
-
-- Listing ports 
-- Connecting with Firebase 
-
 Getting Started
 ----------------
 
@@ -31,7 +23,18 @@ Getting Started
 3.  Connect the Edison to USB
 4.  In Android Studio, click on the "Run" button.
 
-# Support
+Prototype Schematic
+-------------------
+
+
+Firebase
+--------
+
+- Listing ports 
+- Connecting with Firebase 
+
+Support
+--------
 
 - Found this project useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
 
