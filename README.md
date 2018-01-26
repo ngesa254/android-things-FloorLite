@@ -4,10 +4,8 @@ Quick Guide to develop a system that  control the lights in a storey building �
 
 Make an LED blink, controll it through a UI button from the touch screen using AndroidThings and  Firebase
 
-Story
+Setup Requirements
 ----------------
-
-# Setup Requirements
 
 In order to get the app running yourself, you need to:
 
@@ -40,7 +38,8 @@ Support
 
 - Notice anything else missing? File an issue 😄
 
-# Get in touch - Let's become friends
+Get in touch - Let's become friends
+-----------------------------------
 
 Please feel free to contact me if you have any questions, ideas or even if you just want to say hi. I’m up for talking, exchange ideas, collaborations or consults. You can connect with me through any of the avenues listed below:
 - [Twitter](https://twitter.com/Ngesa254)
