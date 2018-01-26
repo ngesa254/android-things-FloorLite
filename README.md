@@ -4,10 +4,11 @@ Quick Guide to develop a system that  control the lights in a storey building ðŸ
 
 Make an LED blink, controll it through a UI button from the touch screen using AndroidThings and  Firebase
 
-# Setup Requirements
-In order to get the app running yourself, you need to:
+# Story
 
-# Prototype Schematic
+# Setup Requirements
+
+In order to get the app running yourself, you need to:
 
 - Android Things
 - Firebase Database & auth
@@ -15,10 +16,10 @@ In order to get the app running yourself, you need to:
 
 # Prototype Schematic
 
-# References
+# Firebase
 
-- Building an Online Presence System using Firebase Realtime Database - https://firebase.googleblog.com/2013/06/how-to-build-presence-system.html
-- Android Things Setup - https://developer.android.com/things/index.html
+- Listing ports 
+- Connecting with Firebase 
 
 # Support
 
@@ -35,3 +36,7 @@ Please feel free to contact me if you have any questions, ideas or even if you j
 - [Facebook](https://web.facebook.com/marvinngesa)
 - [LinkedIn](https://www.linkedin.com/in/engngesamarvin) 
 
+# References
+
+- Building an Online Presence System using Firebase Realtime Database - https://firebase.googleblog.com/2013/06/how-to-build-presence-system.html
+- Android Things Setup - https://developer.android.com/things/index.html
