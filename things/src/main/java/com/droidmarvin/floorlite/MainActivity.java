@@ -42,7 +42,7 @@ public class MainActivity extends Activity {
             mLedGioTwo = service.openGpio(LED_PIN_TWO);
             mLedGioThree = service.openGpio(LED_PIN_THREE);
 
-            // Configure LEDs as an outt && Enable edge trigger events
+            // Configure LEDs as an output && Enable edge trigger events
             mLedGioOne.setDirection(Gpio.DIRECTION_OUT_INITIALLY_LOW);
             mLedGioTwo.setDirection(Gpio.DIRECTION_OUT_INITIALLY_LOW);
             mLedGioThree.setDirection(Gpio.DIRECTION_OUT_INITIALLY_LOW);
