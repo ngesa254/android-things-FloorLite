@@ -7,14 +7,15 @@ Make an LED blink, controll it through a UI button from the touch screen using A
 Setup Requirements
 ----------------
 
-In order to get the app running yourself, you need to:
-
 - Android Things
 - Firebase Database & auth
 - Android
+- Android Studio
 
 Getting Started
 ----------------
+
+In order to get the app running yourself, you need to:
 
 1.  Assemble the hardware components
 2.  Import the project into Android Studio
