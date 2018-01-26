@@ -14,12 +14,22 @@ In order to get the app running yourself, you need to:
 - Firebase Database & auth
 - Android
 
+
 # Prototype Schematic
+
 
 # Firebase
 
 - Listing ports 
 - Connecting with Firebase 
+
+Getting Started
+----------------
+
+1.  Assemble the hardware components
+2.  Import the project into Android Studio
+3.  Connect the Edison to USB
+4.  In Android Studio, click on the "Run" button.
 
 # Support
 
