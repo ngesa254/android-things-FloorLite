@@ -5,7 +5,7 @@ Quick Guide to develop a system that  control the lights in a storey building ðŸ
 Make an LED blink, controll it through a UI button from the touch screen using AndroidThings and  Firebase
 
 
-<img src="art/floorLite.png" alt="phone image" width="200px" />
+
 
 Setup Requirements
 ----------------
